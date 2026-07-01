@@ -26,10 +26,10 @@
 
 ### 🚀 Un poco sobre mí:
 
-* 🔭 Actualmente estoy desarrollando **mi portfolio personal**, una SPA en Vanilla JS con backend en FastAPI, Supabase y despliegue en Render → [ismaelcruz.onrender.com](https://ismaelcruz.onrender.com)
+* 🔭 Actualmente estoy desarrollando **mi portfolio personal**, una SPA en Vanilla JS con backend en FastAPI, Supabase y despliegue en Render → [ismaelcruz.onrender.com](https://cruzismael.es)
 * 🌱 Mi stack principal es **JavaScript, Python (FastAPI), Supabase y Tailwind CSS**.
 * 📚 Sigo perfeccionando mis habilidades de manera autodidacta día a día.
-* ⚡ Me encanta el diseño minimalista y los entornos en modo oscuro.
+* ⚡ Me encanta el diseño minimalista.
 * 📬 Cómo contactar conmigo: **ibcruzismael@gmail.com**
 
 <div align="center">
