@@ -1,72 +1,40 @@
 <div align="center">
 
-# Hi everyone 👋, I'm Ismael
-### Full Stack Web Developer 💻
+# Hi everyone 👋, I'm Ismael Cruz
+### A Full Stack Web Developer 💻
 
 </div>
 
 ---
 
-### 🛠️ Stack que uso:
+### 🛠️ Skills:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </p>
 
 ---
 
 ### 🚀 Un poco sobre mí:
 
-* 🔭 Actualmente construyendo aplicaciones web fullstack de principio a fin — frontend, backend, base de datos y despliegue en producción.
-* 🛒 Mi proyecto principal es una tienda e-commerce completa: React 19 + FastAPI + PostgreSQL desplegada en Hetzner con Coolify.
-* 📚 Aprendizaje autodidacta constante — cada proyecto es una excusa para aprender algo nuevo.
+* 🔭 Actualmente estoy desarrollando **mi portfolio personal**, una SPA en Vanilla JS con backend en FastAPI, Supabase y despliegue en Render → [ismaelcruz.onrender.com](https://ismaelcruz.onrender.com)
+* 🌱 Mi stack principal es **JavaScript, Python (FastAPI), Supabase y Tailwind CSS**.
+* 📚 Sigo perfeccionando mis habilidades de manera autodidacta día a día.
 * ⚡ Me encanta el diseño minimalista y los entornos en modo oscuro.
-* 🌐 Mis proyectos están desplegados en servidores reales con HTTPS, dominios propios y bases de datos en producción.
+* 📬 Cómo contactar conmigo: **ibcruzismael@gmail.com**
 
----
+<div align="center">
 
-### 🏗️ Lo que sé hacer:
+  <a href="https://github.com/ismaelcoodde" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <a href="https://www.instagram.com/ismaelcruzfernandez_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
 
-**Frontend:**
-- Aplicaciones React con React Router, Zustand y Tailwind CSS
-- Consumo de APIs REST con `fetch`, `async/await` y manejo de estados de carga y error
-- Autenticación con JWT guardado en localStorage
-- Rutas protegidas y paneles de administración
-
-**Backend:**
-- APIs REST completas con FastAPI (CRUD completo)
-- Autenticación con JWT, bcrypt y passlib
-- Modelos de base de datos con SQLAlchemy
-- Migraciones entre SQLite (desarrollo) y PostgreSQL (producción)
-
-**DevOps:**
-- Despliegue en Hetzner con Coolify
-- Gestión de variables de entorno por entorno (local vs producción)
-- Dominios con DuckDNS y HTTPS automático
-- Control de versiones con Git y GitHub
-
----
-
-### 📦 Proyectos destacados:
-
-**🛒 Tienda — E-commerce Fullstack**
-> React 19 · FastAPI · PostgreSQL · SQLAlchemy · Tailwind CSS · JWT Auth · Coolify · Hetzner
-
-Una tienda online completa con catálogo de productos, carrito de compra, sistema de autenticación de usuarios, panel de administración protegido y despliegue en producción.
-
-🔗 [Ver proyecto](https://tienda-ismael.duckdns.org) · [Código](https://github.com/ismaelcoodde/tienda)
-
----
-
-### 📬 Contacto:
-
-* 💼 [LinkedIn](Tu_Enlace_Aquí)
-* 📧 Tu_Email_Aquí
+</div>
