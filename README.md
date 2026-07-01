@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi everyone 👋, I'm [Tu Nombre]
+# Hola a todos👋, soy [Ismael]
 
-### A Full Stack Web Developer 💻
+###Full Stack Web Developer 💻
 
 </div>
 
@@ -25,6 +25,5 @@
 
 * 🔭 Actualmente estoy desarrollando proyectos enfocados en desarrollo web full-stack.
 * 📚 Sigo perfeccionando mis habilidades de manera autodidacta día a día.
-* ⚡ Me encanta el diseño minimalista y los entornos en modo oscuro.
-* 📬 Cómo contactar conmigo: [Tu Email]
+* 📬 Cómo contactar conmigo: [ibcruzismael@gmail.com]
 * 💼 Conectemos en [LinkedIn](Tu_Enlace_Aquí)
