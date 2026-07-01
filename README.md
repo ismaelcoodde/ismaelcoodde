@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ismaelcoodde/ismaelcoodde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi everyone 👋, I'm [Tu Nombre]
 
-Here are some ideas to get you started:
+### A Full Stack Web Developer 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🛠️ Skills:
+
+<!-- Aquí puedes usar imágenes de tus tecnologías favoritas -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/>
+</p>
+
+---
+
+### 🚀 Un poco sobre mí:
+
+* 🔭 Actualmente estoy desarrollando proyectos enfocados en desarrollo web full-stack.
+* 📚 Sigo perfeccionando mis habilidades de manera autodidacta día a día.
+* ⚡ Me encanta el diseño minimalista y los entornos en modo oscuro.
+* 📬 Cómo contactar conmigo: [Tu Email]
+* 💼 Conectemos en [LinkedIn](Tu_Enlace_Aquí)
