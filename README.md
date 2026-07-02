@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Hola+a+todos+👋,+Soy+Ismael+Cruz&animation=typing&color=22D3EE&size=32&duration=3000&pause=2000&center=true&vCenter=true&width=700&height=55&font=code" alt="Hola a todos, soy Ismael Cruz" />
+  <img src="./assets/titulo.svg" alt="Hola a todos, soy Ismael Cruz" />
 
-  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Futuro+Full+Stack+Web+Developer+=)+💻&animation=fade&color=60A5FA&size=20&duration=2000&pause=1500&center=true&vCenter=true&width=500&height=40&font=sans" alt="Futuro Full Stack Web Developer" />
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Futuro+Full+Stack+Web+Developer+=)+💻🔥&animation=fade&color=EF4444&size=20&duration=2000&pause=1500&center=true&vCenter=true&width=500&height=40&font=sans" alt="Futuro Full Stack Web Developer" />
 
 </div>
 
