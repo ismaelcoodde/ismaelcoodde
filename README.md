@@ -9,6 +9,17 @@
 
 </div>
 
+---
+
+## 📌 Acerca de mí
+
+- 🚀 Actualmente estoy trabajando en proyectos de **React** y **Python**.
+- 🌱 Estoy aprendiendo **Docker** y **CI/CD**.
+- 👥 Busco colaborar en proyectos de código abierto.
+- 💬 Pregúntame sobre **desarrollo web** y **bases de datos**.
+- 📫 Cómo contactarme: **ismaelcoodde@gmail.com**
+- ⚡ Conectemos en [LinkedIn](https://linkedin.com/in/ismaelcoodde)
+
 
 ## 🛠️ Skills:
 
