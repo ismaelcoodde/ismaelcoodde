@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Hola+a+todos+👋,+Soy+Ismael+Cruz&animation=typing&color=8B5CF6&size=32&duration=7000&pause=2000&center=true&vCenter=true&width=700&height=80&font=code" alt="Hi everyone, I'm Ismael Cruz" />
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Hola+a+todos+👋,+Soy+Ismael+Cruz&animation=typing&color=8B5CF6&size=32&duration=2000&pause=2000&center=true&vCenter=true&width=700&height=80&font=code" alt="Hi everyone, I'm Ismael Cruz" />
 </p>
 <p align="center">
   <img src="https://readme-svg-typing-generator.vercel.app/api?lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━&animation=none&color=8B5CF6&size=70¢er=true&width=1000&height=30" />
