@@ -13,7 +13,7 @@
 - 🚀 Mi stack actual: **React + Vite** en el frontend, **Python (FastAPI/Flask)** en el backend, y **Supabase/PostgreSQL** como base de datos.
 - 🛠️ He construido y desplegado **proyectos reales**: mi propio portfolio, una tienda de práctica y webs para clientes.
 - 💬 Pregúntame sobre **desarrollo web**, **bases de datos** o cómo voy aprendiendo.
-- 📫 Cómo contactarme: **ismaelcoodde@gmail.com**
+- 📫 Cómo contactarme: **ibcruzdeveloper@gmail.com*
 - ⚡ Conectemos en [LinkedIn](https://linkedin.com/in/ismaelcoodde)
 
 ## 🛠️ Skills:
