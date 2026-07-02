@@ -10,7 +10,7 @@
 
 </div>
 
-<hr style="border: 1px solid #8B5CF6; width: 50%;">
+<hr style="border: 1px solid #000000; width: 50%;">
 ## 🛠️ Skills:
 
 <p align="center">
