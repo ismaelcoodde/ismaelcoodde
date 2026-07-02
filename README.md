@@ -1,10 +1,10 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://scribesvg.vercel.app/api/render?lines=Hola+a+todos+👋,+Soy+Ismael+Cruz&font=Fira+Code&size=28&color=3b82f6,8b5cf6&center=true&vCenter=true&width=700&height=80&cursor=block&speed=80&pause=1500" alt="Hi everyone, I'm Ismael Cruz" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola+a+todos+👋,+Soy+Ismael+Cruz&center=true&width=700&size=28&color=8B5CF6&duration=3000&pause=1500&vCenter=true&multiline=false&repeat=true&random=false" alt="Hi everyone, I'm Ismael Cruz" />
 </p>
 <p align="center">
-  <img src="https://scribesvg.vercel.app/api/render?lines=A+Full+Stack+Web+Developer+💻&font=Fira+Code&size=22&color=8b5cf6&center=true&vCenter=true&width=500&height=60&cursor=pipe&speed=60&pause=2000" alt="Full Stack Web Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Full+Stack+Web+Developer+💻&center=true&width=500&size=22&color=6366F1&duration=2500&pause=2000&vCenter=true&multiline=false&repeat=true&random=false" alt="Full Stack Web Developer" />
 </p>
 
 </div>
@@ -22,3 +22,4 @@
 <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel"
   </a>
 </p>
+
