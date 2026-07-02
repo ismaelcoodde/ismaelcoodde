@@ -4,7 +4,7 @@
   <img src="./assets/title.svg" alt="Hi everyone, I'm Ismael Cruz" />
 </p>
 <p align="center">
-  <img src="./assets/subtitle.svg" alt="A Full Stack Web Developer" />
+  <img src="./assets/subtitle.svg" alt="Intendo de Full Stack Web Developer" />
 </p>
 
 </div>
