@@ -1,10 +1,10 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola+a+todos+👋,+Soy+Ismael+Cruz&center=true&width=700&size=28&color=8B5CF6&duration=3000&pause=1500&vCenter=true&multiline=false&repeat=true&random=false" alt="Hi everyone, I'm Ismael Cruz" />
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Hola+a+todos+👋,+Soy+Ismael+Cruz&animation=typing&color=8B5CF6&size=32&duration=3000&pause=2000&center=true&vCenter=true&width=700&height=80&font=code" alt="Hi everyone, I'm Ismael Cruz" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Full+Stack+Web+Developer+💻&center=true&width=500&size=22&color=6366F1&duration=2500&pause=2000&vCenter=true&multiline=false&repeat=true&random=false" alt="Full Stack Web Developer" />
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=A+Full+Stack+Web+Developer+💻&animation=fade&color=6366F1&size=24&duration=2000&pause=1500&center=true&vCenter=true&width=500&height=60&font=sans" alt="Full Stack Web Developer" />
 </p>
 
 </div>
@@ -22,4 +22,3 @@
 <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel"
   </a>
 </p>
-
