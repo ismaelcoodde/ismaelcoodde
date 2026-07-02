@@ -1,9 +1,8 @@
 <div align="center">
+
 <p align="center">
-  <img src="./assets/subtitle.svg" alt="# Hi everyone 👋, I'm Ismael Cruz" />
+  <img src="./assets/title.svg" alt="Hi everyone, I'm Ismael Cruz" />
 </p>
-
-
 <p align="center">
   <img src="./assets/subtitle.svg" alt="A Full Stack Web Developer" />
 </p>
