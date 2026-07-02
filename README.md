@@ -9,7 +9,7 @@
  🛠️ Skills:
  <p align="center">
 
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,python,fastapi,postgres,vite,react,vercel,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,fastapi,postgres,vite,vercel,render,hetzner,coolify,git,github)
 </p>
 <p align="center">
   <a href="https://github.com/ismaelcoodde">
