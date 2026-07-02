@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ismaelcoodde/ismaelcoodde/main/assets/titulo.svg" alt="Hola a todos, soy Ismael Cruz" />
+
   <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Futuro+Full+Stack+Web+Developer+=)+💻🔥&animation=fade&color=EF4444&size=20&duration=2000&pause=1500&center=true&vCenter=true&width=500&height=40&font=sans" alt="Futuro Full Stack Web Developer" />
 
 </div>
