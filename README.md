@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Hola+a+todos+👋,+Soy+Ismael+Cruz&animation=typing&color=ffffff&size=42&duration=5000&pause=3000&center=true&vCenter=true&width=800&height=80&font=code" alt="Hi everyone, I'm Ismael Cruz" />
-    <img src="https://readme-svg-typing-generator.vercel.app/api?lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━&animation=none&color=ffffff&size=70¢er=true&width=1000&height=30&duration=1000" />
+    <img src="https://readme-svg-typing-generator.vercel.app/api?lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━&animation=none&color=ffffff&size=70¢er=true&width=1000&height=30&duration=1000&pause=500 />
 
 </p>
 <p align="center">
