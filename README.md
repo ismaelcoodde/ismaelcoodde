@@ -7,9 +7,10 @@
 
 
  🛠️ Skills:
+ <p align="center">
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,python,fastapi,postgres,vite,react,vercel,git,github)
-
+</p>
 <p align="center">
   <a href="https://github.com/ismaelcoodde">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
