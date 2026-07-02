@@ -1,10 +1,10 @@
 <div align="center">
 
 <p align="center">
-  <img src="./assets/title.svg" alt="Hi everyone, I'm Ismael Cruz" />
+  <img src="https://scribesvg.vercel.app/api/render?lines=Hola+a+todos+👋,+Soy+Ismael+Cruz&font=Fira+Code&size=28&color=3b82f6,8b5cf6&center=true&vCenter=true&width=700&height=80&cursor=block&speed=80&pause=1500" alt="Hi everyone, I'm Ismael Cruz" />
 </p>
 <p align="center">
-  <img src="./assets/subtitle.svg" alt="Intendo de Full Stack Web Developer" />
+  <img src="https://scribesvg.vercel.app/api/render?lines=A+Full+Stack+Web+Developer+💻&font=Fira+Code&size=22&color=8b5cf6&center=true&vCenter=true&width=500&height=60&cursor=pipe&speed=60&pause=2000" alt="Full Stack Web Developer" />
 </p>
 
 </div>
@@ -22,4 +22,3 @@
 <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel"
   </a>
 </p>
-
