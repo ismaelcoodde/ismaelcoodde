@@ -1,7 +1,9 @@
 <div align="center">
 
 # Hi everyone 👋, I'm Ismael Cruz
-### A Full Stack Web Developer 💻
+<p align="center">
+  <img src="./assets/subtitle.svg" alt="A Full Stack Web Developer" />
+</p>
 
 </div>
 
